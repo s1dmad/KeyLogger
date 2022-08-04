@@ -1,3 +1,10 @@
+### Presentation file:
+
+https://www.canva.com/design/DAFIV-YDqTA/CkMz3ey5KNH8gQtJuteg_w/view?utm_content=DAFIV-YDqTA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+
+
+
 Key loggers are activity-monitoring software programs that give hackers access to your data. The software is installed on your computer and records everything you type. Then it sends this log file to a server, where cybercriminals wait to use all this sensitive information.
 
 ### This key logger can not only detect & record your keystrokes but can also:
